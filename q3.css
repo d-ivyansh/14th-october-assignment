@@ -1,0 +1,8 @@
+h1::after{
+    content: "afterContent";
+    text-decoration: underline;
+}
+h1::before{
+    content: "beforeContent";
+    text-decoration: underline;
+}
